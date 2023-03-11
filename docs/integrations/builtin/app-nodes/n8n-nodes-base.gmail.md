@@ -1,6 +1,6 @@
 # Gmail
 
-The Gmail node allows you to automate work in Gmail, and integrate Gmail with other applications. n8n has built-in support for a wide range of Gmail features, including creating, updating, deleting, and getting drafts, messages, labels, thread.  
+The Gmail node allows you to automate work in Gmail, and integrate Gmail with other applications. n8n has built-in support for a wide range of Gmail features, including creating, updating, deleting, and getting drafts, messages, labels, threads.  
 
 On this page, you'll find a list of operations the Gmail node supports and links to more resources.
 
